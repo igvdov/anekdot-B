@@ -1,0 +1,20 @@
+APScheduler	3.6.3
+attrs	20.3.0
+certifi	2020.12.5
+cffi	1.14.5
+chardet	4.0.0
+cryptography	3.4.7
+idna	2.10
+pip	20.2.3
+pyOpenSSL	20.0.1
+pyTelegramBotAPI	3.7.7
+pyasn1	0.4.8
+pyasn1-modules	0.2.8
+pycparser	2.20
+pytz	2021.1
+requests	2.25.1
+service-identity
+setuptools	49.2.1
+six	1.15.0
+tzlocal	2.1
+urllib3	1.26.4
